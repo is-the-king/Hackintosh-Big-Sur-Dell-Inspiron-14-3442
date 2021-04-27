@@ -16,11 +16,8 @@ Tudo funcionando
 
 - PROCESSADOR: 4ª Geração do Processador Intel® Core™ i5-4210U (até 2.7 GHz, 3Mb Cache)
 - MEMÓRIA RAM: Memória 4GB, Single Channel DDR3, 1600MHz (1x4Gb)
-
 - GRÁFICOS: Intel Integrated HD Graphics 4400
-
 - BATERIA: Bateria de 4 células, 40WHr
-
 - ARMAZENAMENTO: SSD SuperSpeed S540 240GB
 
 ------
@@ -40,11 +37,10 @@ https://www.dell.com/support/home/pt-br/product-support/product/inspiron-14-3442
 
 
 ##### screenshot
+![image](https://user-images.githubusercontent.com/59968178/116174570-0cf47100-a6e5-11eb-9f9f-4101cb588d56.png)
 
-![telegram-cloud-photo-size-1-4915986294346197367-y](/Users/gleison/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-16637484975886462900/postbox/media/telegram-cloud-photo-size-1-4915986294346197367-y.jpg)
+![image](https://user-images.githubusercontent.com/59968178/116174603-1da4e700-a6e5-11eb-8ddf-8d9e5beb781d.png)
 
-![image-20210426224527705](/Users/gleison/Library/Application Support/typora-user-images/image-20210426224527705.png)
+![image](https://user-images.githubusercontent.com/59968178/116174621-27c6e580-a6e5-11eb-996e-e3c1ef5e0303.png)
 
-![telegram-cloud-photo-size-1-4915986294346197371-y](/Users/gleison/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-16637484975886462900/postbox/media/telegram-cloud-photo-size-1-4915986294346197371-y.jpg)
-
-![telegram-cloud-photo-size-1-4915986294346197369-y](/Users/gleison/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-16637484975886462900/postbox/media/telegram-cloud-photo-size-1-4915986294346197369-y.jpg)
+![image](https://user-images.githubusercontent.com/59968178/116174646-30b7b700-a6e5-11eb-9e6c-465f600407b0.png)
